@@ -26,7 +26,7 @@ SECRET_KEY = '0upr9j47$!_s@kpbkc-rnj@66h9)_swc1bs#jog$uu!!uyzciv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://git.heroku.com/django-webapp-kbescano.git','127.0.0.1']
+ALLOWED_HOSTS = ['https://git.heroku.com/djwebapp-kbescano.git','127.0.0.1']
 
 
 # Application definition
